@@ -5543,6 +5543,9 @@ Standard A4 size frame in Landscape</description>
 </library>
 </libraries>
 <attributes>
+<attribute name="CNAME" value="ATtiny Traffic Light"/>
+<attribute name="CREVISION" value="1.0"/>
+<attribute name="DESIGNER" value="Emil Bergold"/>
 </attributes>
 <variantdefs>
 </variantdefs>
